@@ -16,10 +16,6 @@ function overwriteBestCustomer(input) {
   bestCustomer = input
 }
 
-function leastFavoriteCustomer(input) {
-  bestCustomer = input
-}
-
 function changeLeastFavoriteCustomer() {
   
 }
